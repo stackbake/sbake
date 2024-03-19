@@ -1,7 +1,7 @@
 {
-  "name": "sbake",
+  "name": "stackbake",
   "version": "0.0.0",
-  "description": "Reserved for a stackbake plugin",
+  "description": "Scaffold projects with ease!",
   "main": "index.js",
   "author": "stackbake",
   "license": "SB"
