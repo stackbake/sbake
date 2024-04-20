@@ -1,6 +1,6 @@
 {
-  "name": "stackbake",
-  "version": "0.0.0-r1",
+  "name": "sbake",
+  "version": "0.0.01",
   "description": "Scaffold projects with ease!",
   "main": "index.js",
   "author": "stackbake",
